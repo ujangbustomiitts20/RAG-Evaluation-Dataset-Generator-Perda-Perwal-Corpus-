@@ -298,7 +298,7 @@ This provides a **quantitative baseline** for RAG retrieval quality.
 
 ## 📜 License
 
-MIT License (or modify as needed).
+MIT License .
 
 ---
 
